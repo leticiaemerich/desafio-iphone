@@ -6,3 +6,4 @@
       <br>
       -CSS
       <br>
+      <img src="https://github.com/leticiaemerich/desafio-iphone/blob/master/img/img-iPhone-site.png?raw=true"/>
